@@ -1,0 +1,68 @@
+Return-Path: <ludotech+bncBDHYBZW6Y4CRBK5VU2HAKGQESWIT2II@googlegroups.com>
+Delivered-To: useless@utouch.fr
+Received: from utouch.fr (localhost [127.0.0.1])
+    by utouch.fr (Postfix) with ESMTP id 0E880206EA
+    for <useless@utouch.fr>; Tue, 25 Jun 2013 15:27:10 +0200 (CEST)
+Authentication-Results: localdomain; dkim=pass header.i=@googlegroups.com
+X-DKIM-Authentication-Results: pass
+Received: from mail-la0-f56.google.com (mail-la0-f56.google.com [209.85.215.56])
+    (using TLSv1 with cipher ECDHE-RSA-RC4-SHA (128/128 bits))
+    (No client certificate requested)
+    by utouch.fr (Postfix) with ESMTPS
+    for <useless@utouch.fr>; Tue, 25 Jun 2013 15:27:09 +0200 (CEST)
+Received: by mail-la0-f56.google.com with SMTP id ez20sf2328001lab.21
+    for <useless@utouch.fr>; Tue, 25 Jun 2013 06:27:08 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+    d=googlegroups.com; s=20120806;
+    h=x-beenthere:message-id:date:from:user-agent:mime-version:to:subject
+    :x-original-sender:x-original-authentication-results:reply-to
+    :precedence:mailing-list:list-id:x-google-group-id:list-post
+    :list-help:list-archive:sender:list-unsubscribe:content-type
+    :content-transfer-encoding;
+    bh=erLk8FtTav/9Ucytn7WJfR65t3eMVQjqpySoCmr5j34=;
+    b=kEI+AaZtgGcTYain7Yx+MaW+VmbbTGUrEMwZ580qJ6oCWUlf+jLPqlQzSvwurNl+UA
+    zqw6fe7ulXooMDZkdiKKN+tUftlnLUNQ85OgGNaWpVKFsAdkc0NtCj7Ln3KeuhrAr1jT
+    LN3pirSitAj2mbyrOcHxScDuF8OIusswLNr3JV05WmeULDuue8YU/AW/q2wWBW9gXfQH
+    nfM/KxBtWhUHTbPHAoOvcheX2Xw2lYWkMQXXe2VAonwQHzHwUrKP4aLehNw6FNRig42Q
+    DFtVP3qC23MTXvnA1EyPTilsIDrqkPluyXajGyL1J+h9r3Ry2u9v3VR7O8ZiNaU7zMwv
+    +qpw==
+X-Received: by 10.180.207.47 with SMTP id lt15mr404847wic.0.1372166828130;
+    Tue, 25 Jun 2013 06:27:08 -0700 (PDT)
+X-BeenThere: ludotech@googlegroups.com
+Received: by 10.180.20.236 with SMTP id q12ls1073706wie.22.canary; Tue, 25 Jun
+    2013 06:27:07 -0700 (PDT)
+X-Received: by 10.180.85.134 with SMTP id h6mr4644266wiz.1.1372166827810;
+    Tue, 25 Jun 2013 06:27:07 -0700 (PDT)
+Received: from ruuand.fr (89-158-85-241.rev.dartybox.com. [89.158.85.241])
+    by gmr-mx.google.com with ESMTP id s11si152997wij.3.2013.06.25.06.27.07
+    for <ludotech@googlegroups.com>;
+    Tue, 25 Jun 2013 06:27:07 -0700 (PDT)
+Received-SPF: neutral (google.com: 89.158.85.241 is neither permitted nor denied by best guess record for domain of arnaud@ruuand.fr) client-ip=89.158.85.241;
+Received: from [192.168.1.108] (89-158-85-241.rev.dartybox.com [89.158.85.241])
+    by ruuand.fr (Postfix) with ESMTPSA id 579172EC284
+    for <ludotech@googlegroups.com>; Tue, 25 Jun 2013 15:27:06 +0200 (CEST)
+Message-ID: <51C99AA9.2040106@ruuand.fr>
+Date: Tue, 25 Jun 2013 15:27:05 +0200
+From: Arnaud Abramovici <arnaud@ruuand.fr>
+User-Agent: Mozilla/5.0 (X11; Linux i686; rv:17.0) Gecko/20130106 Thunderbird/17.0.2
+MIME-Version: 1.0
+To: ludotech@googlegroups.com
+Subject: [DRÔLE ET HISTOIRES ÊTES FOO] [VOUS NOT TROP BAR DE] [AVEC] [SODOMIE PRATIQUE MINABLE] BEAUCOUP
+X-Original-Sender: arnaud@ruuand.fr
+X-Original-Authentication-Results: gmr-mx.google.com;       spf=neutral
+    (google.com: 89.158.85.241 is neither permitted nor denied by best guess
+     record for domain of arnaud@ruuand.fr) smtp.mail=arnaud@ruuand.fr
+Reply-To: ludotech@googlegroups.com
+Precedence: list
+Mailing-list: list ludotech@googlegroups.com; contact ludotech+owners@googlegroups.com
+List-ID: <ludotech.googlegroups.com>
+X-Google-Group-Id: 870700114823
+List-Post: <http://groups.google.com/group/ludotech/post>, <mailto:ludotech@googlegroups.com>
+List-Help: <http://groups.google.com/support/>, <mailto:ludotech+help@googlegroups.com>
+List-Archive: <http://groups.google.com/group/ludotech>
+Sender: ludotech@googlegroups.com
+List-Unsubscribe: <http://groups.google.com/group/ludotech/subscribe>, <mailto:googlegroups-manage+870700114823+unsubscribe@googlegroups.com>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+
+    %[1][0] %[0][3] # %[1][2] %[0][0] %[2] VOS %[0][2] %[1][4] \# %[0][1] %[1][4] \% ! %[1][1] !
